@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Creating text1.txt file
-=======
 no 1
 >>>>>>> 183fd4b7457704f5612ba7f38adb217f520c6e2e
